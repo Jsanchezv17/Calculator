@@ -9,25 +9,25 @@ Acceptance Criteria:
 
   • Support basic arithmetic operations:
 
-    o Addition (+)
+    - Addition (+)
 
-    o Subtraction (-)
+    - Subtraction (-)
 
-    o Multiplication (*)
+    - Multiplication (*)
 
-    o Division (/)
+    - Division (/)
 
   • Implement proper error handling.
 
   • Return results in a consistent JSON format:
 
-    o Operation performed
+    - Operation performed
 
-    o Input values
+    - Input values
 
-    o Result
-    
-    o Timestamp
+    - Result
+
+    - Timestamp
 
   • Include input validation
 
