@@ -8,21 +8,29 @@ Acceptance Criteria:
   • Implement an API endpoint that accepts two numbers and an operation type
 
   • Support basic arithmetic operations:
+
     o Addition (+)
+
     o Subtraction (-)
+
     o Multiplication (*)
+
     o Division (/)
 
   • Implement proper error handling.
 
   • Return results in a consistent JSON format:
+
     o Operation performed
+
     o Input values
+
     o Result
+    
     o Timestamp
 
   • Include input validation
-  
+
   • Implement proper HTTP status codes for responses
 
 # EndPoint
